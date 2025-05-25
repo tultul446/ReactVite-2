@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+
+.text:hover{
+color:#09090B;
+}
+
+.button:hover{
+background:#F26922;
+color:white;
+}
